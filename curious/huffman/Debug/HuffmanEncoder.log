@@ -1,0 +1,7 @@
+﻿  demo.cpp
+h:\c\datastructure\huffmanencoder\huffmanencoder\demo.cpp(155): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+h:\c\datastructure\huffmanencoder\huffmanencoder\demo.cpp(170): warning C4838: 从“int”转换到“char”需要收缩转换
+h:\c\datastructure\huffmanencoder\huffmanencoder\demo.cpp(170): warning C4309: “初始化”: 截断常量值
+h:\c\datastructure\huffmanencoder\huffmanencoder\demo.cpp(187): warning C4114: 多次使用同一类型限定符
+h:\c\datastructure\huffmanencoder\huffmanencoder\demo.cpp(374): warning C4101: “type”: 未引用的局部变量
+  HuffmanEncoder.vcxproj -> H:\c\dataStructure\HuffmanEncoder\Debug\HuffmanEncoder.exe
